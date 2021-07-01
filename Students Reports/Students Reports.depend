@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1625123259 source:e:\vivek\students reports\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<string>
+
